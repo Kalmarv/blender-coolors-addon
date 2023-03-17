@@ -18,6 +18,7 @@ Updating the coolors url and clicking the "Create Node" button will update the c
 ## Example
 
 Turn this coolors url: `https://coolors.co/palette/f4f1de-e07a5f-3d405b-81b29a-f2cc8f`
+
 ![Example](https://i.imgur.com/bpmqrb4.png)
 
 Into this color ramp with a single click:
